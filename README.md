@@ -1,6 +1,6 @@
-# Supermarket-Development-WFP-Gaza
+# Supermarket-Development-PARC-WFP-North-Gaza
 Humanitarian project to develop and rehabilitate supermarkets in Gaza in coordination with WFP.
-# Supermarket Development Project – Gaza
+# Supermarket Development Project – North Gaza
 
 ## 📌 Project Title
 Supermarket Development and Rehabilitation Project in Partnership with WFP
@@ -9,7 +9,7 @@ Supermarket Development and Rehabilitation Project in Partnership with WFP
 North Gaza Strip – Palestine
 
 ## 🤝 Partner
-World Food Programme (WFP)
+PARC & World Food Programme (WFP)
 
 ## 🎯 Project Goal
 To enhance food security and economic resilience by rehabilitating and developing local supermarkets,
