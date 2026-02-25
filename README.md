@@ -6,7 +6,7 @@ Humanitarian project to develop and rehabilitate supermarkets in Gaza in coordin
 Supermarket Development and Rehabilitation Project in Partnership with WFP
 
 ## 📍 Location
-Gaza Strip – Palestine
+North Gaza Strip – Palestine
 
 ## 🤝 Partner
 World Food Programme (WFP)
