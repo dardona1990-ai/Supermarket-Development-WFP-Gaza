@@ -35,6 +35,15 @@ improving their operational capacity, and enabling efficient voucher-based food 
 - Improved service quality in supermarkets
 - Better stock management and pricing transparency
 - Faster and more accountable voucher redemption
+## Technical Skills
+- Excel: formulas, pivot tables, charts
+- Python: pandas, numpy (learning)
+- Data Visualization: Power BI (beginner)
+
+## Soft Skills
+- Analytical thinking
+- Field data understanding
+- Documentation & reporting
 
 ## 👤 Project Management
 Implemented by PARC teams in coordination with WFP standards and guidelines.
